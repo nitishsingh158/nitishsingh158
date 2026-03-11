@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nitishsingh158
 - 👀 I’m interested in Data Ananlysis and Machine Learning
-- 🌱 I’m currently learning to design neural networks for ecommerce platforms
+- 🌱 I’m currently working on IoT and OT analytics 
 - 💞️ I’m looking to collaborate on data analysis and ai projects
 - 📫 How to reach me : nitish.singh158@gmail.com
 
